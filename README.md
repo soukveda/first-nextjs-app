@@ -3,6 +3,8 @@ My First NextJS Application
 =======
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+You can use https://socialsharepreview.com/ to view the preview of your website.
+
 ## Getting Started
 
 First, run the development server:
